@@ -1,6 +1,5 @@
 #zhanglubao
 英雄联盟在视频APP<br>
-由于转型现在全部已经下架<br>
 需要的打包出售<br>
 全套出售<br>
 官方地址:http://www.kailuba.com<br>
