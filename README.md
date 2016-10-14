@@ -1,7 +1,9 @@
 #zhanglubao
 英雄联盟在视频APP<br>
 由于转型现在全部已经下架<br>
-官方地址:http://www.zhanglubao.com<br>
+需要的打包出售<br>
+全套出售<br>
+官方地址:http://www.kailuba.com<br>
 上线3个月10000用户 由于产品转型所以开源给大家<br>
 管理端框架:thinkphp<br>
 android:native 由于前面采用的自己编译的[ijkplayer](https://github.com/Bilibili/ijkplayer)但是在金立手机上不兼容，现在采用的[vitamio](https://www.vitamio.org/) 但是新版本没有调试完需要自行调试界面<br>
