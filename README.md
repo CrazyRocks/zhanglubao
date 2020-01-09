@@ -25,11 +25,11 @@ QQ:2667069763  email:2667069763@qq.com
 管理端:<br>
 ![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/142539_128823fb_620187.png)<br>
 APP端:<br>
-![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/141254_6bc2ba52_620187.jpeg)
-![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/141328_1e8f4f2a_620187.jpeg)
-![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/142633_ef6d0fe9_620187.jpeg)
-![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/142701_aab1aec7_620187.jpeg)
-![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/142724_da8923f7_620187.jpeg)
+![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/141254_6bc2ba52_620187.jpeg=360*480)
+![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/141328_1e8f4f2a_620187.jpeg360*480)
+![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/142633_ef6d0fe9_620187.jpeg360*480)
+![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/142701_aab1aec7_620187.jpeg360*480)
+![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/142724_da8923f7_620187.jpeg360*480)
 
 感谢大家支持，有钱的撒几毛，没钱的点个赞，有问题的提issue<br/>
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1225/172829_5408c413_1927330.jpeg)
