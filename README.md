@@ -23,7 +23,7 @@ QQ:2667069763  email:2667069763@qq.com
 
 下面是产品图片:<br>
 管理端:<br>
- [[http://git.oschina.net/uploads/images/2016/0111/142539_128823fb_620187.png]([http://git.oschina.net/uploads/images/2016/0111/142539_128823fb_620187.png)](http://git.oschina.net/uploads/images/2016/0111/142539_128823fb_620187.png))](http://git.oschina.net/uploads/images/2016/0111/142539_128823fb_620187.png)<br>
+![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/142539_128823fb_620187.png))<br>
 APP端:<br>
 
 [[http://git.oschina.net/uploads/images/2016/0111/141254_6bc2ba52_620187.jpeg]([http://git.oschina.net/uploads/images/2016/0111/141254_6bc2ba52_620187.jpeg)](http://git.oschina.net/uploads/images/2016/0111/141254_6bc2ba52_620187.jpeg))](http://git.oschina.net/uploads/images/2016/0111/141254_6bc2ba52_620187.jpeg)]<br>
