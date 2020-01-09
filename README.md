@@ -43,8 +43,6 @@ APP端:<br>
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0109/151918_f6733481_620187.jpeg "qrcode_for_gh_221095e67f12_1280.jpg")<br/>
 
-感谢大家支持，有钱的撒几毛，没钱的点个赞，有问题的提issue<br/>
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1225/172511_13869dda_1927330.jpeg "donate.jpg")
-
+ 
 感谢大家支持，有钱的撒几毛，没钱的点个赞，有问题的提issue<br/>
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1225/172829_5408c413_1927330.jpeg)
