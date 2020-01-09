@@ -25,7 +25,7 @@ QQ:2667069763  email:2667069763@qq.com
 管理端:<br>
 ![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/142539_128823fb_620187.png)<br>
 APP端:<br>
-![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/141254_6bc2ba52_620187.jpeg 320*480)
+![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/141254_6bc2ba52_620187.jpeg)
 ![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/141328_1e8f4f2a_620187.jpeg)
 ![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/142633_ef6d0fe9_620187.jpeg)
 ![输入图片说明](http://git.oschina.net/uploads/images/2016/0111/142701_aab1aec7_620187.jpeg)
